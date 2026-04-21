@@ -37,6 +37,6 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - [ ] Branching and PR conventions documented in repo
 - [ ] CI configured for tests and lint
 - [ ] QA Lead release gate criteria documented and reviewed before release
-- [ ] DevOps Engineer deployment readiness checklist confirmed before release window
+- [ ] DevOps Engineer [deployment readiness checklist](docs/checklists/release-and-deployment-checklist.md) confirmed before release window
 - [ ] Regular demos scheduled
 - [ ] Risk register updated weekly
