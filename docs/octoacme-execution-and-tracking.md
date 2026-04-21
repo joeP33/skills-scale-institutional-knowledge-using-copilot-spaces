@@ -30,11 +30,13 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 
 ## Blocker Escalation
 - Level 1: Team-level triage in daily standup
-- Level 2: PM escalates to Product Lead and dependent teams
+- Level 2: PM escalates to Product Lead, QA Lead, DevOps Engineer, and dependent teams
 - Level 3: Sponsor-level escalation for business-impacting issues
 
 ## Execution Checklist
 - [ ] Branching and PR conventions documented in repo
 - [ ] CI configured for tests and lint
+- [ ] QA Lead release gate criteria documented and reviewed before release
+- [ ] DevOps Engineer [deployment readiness checklist](docs/checklists/release-and-deployment-checklist.md) confirmed before release window
 - [ ] Regular demos scheduled
 - [ ] Risk register updated weekly
